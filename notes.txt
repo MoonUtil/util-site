@@ -1,0 +1,3 @@
+Notes:
+
+/src/layouts/Layout.astro <--- Contains some header HTML stuff, will be good for Google Ad Revenue + More@!
